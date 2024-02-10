@@ -6,3 +6,5 @@ im w1024ji
 - use "git restore --staged <file>... " to unstage
 
 ## remote랑 clone은 뭐가 다른거지
+
+# fetch + merge = pull 인가?
